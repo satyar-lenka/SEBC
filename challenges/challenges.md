@@ -8,7 +8,7 @@
 
 # <center> Challenges - June 23, 2017 - Palo Alto, CA
 
-* Overview--
+* Overview
   * Build a CM-managed CDH cluster and secure it
 * Place your work in the `challenges/labs` folder
   * All text files require  Markdown (`.md`) extension and formatting
