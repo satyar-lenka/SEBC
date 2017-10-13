@@ -42,6 +42,7 @@ tmpfs           1.5G     0  1.5G   0% /run/user/1000
 
 <p>List the command and output for yum repolist enabled</p>
 
+<pre><code>
 [root@ip-172-31-6-74 centos]# yum repolist enabled
 Loaded plugins: fastestmirror
 Loading mirror speeds from cached hostfile
@@ -54,7 +55,7 @@ extras/7/x86_64                                       CentOS-7 - Extras         
 updates/7/x86_64                                      CentOS-7 - Updates                                              740
 repolist: 10,558
 [root@ip-172-31-6-74 centos]# 
-
+</code></pre>
 
 
 <p>List the /etc/passwd entries for jimenez and beltran</p>
