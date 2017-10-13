@@ -4,7 +4,7 @@
 [root@ip-172-31-6-74 centos]# hostname -f
 ip-172-31-6-74.us-west-2.compute.internal
 [root@ip-172-31-6-74 centos]# 
-
+</code></pre>
 
 <p>The command mysql -u <user> -p<password> -e "status;" and its output</p>
 
