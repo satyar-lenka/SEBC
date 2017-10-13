@@ -58,6 +58,7 @@ repolist: 10,558
 
 
 <p>List the /etc/passwd entries for jimenez and beltran</p>
+
 <pre><code>
 jimenez:x:2800:2800::/home/jimenez:/bin/bash
 beltran:x:2900:2900::/home/beltran:/bin/bash
@@ -65,6 +66,7 @@ beltran:x:2900:2900::/home/beltran:/bin/bash
 
 
 <p>List the /etc/group entries for astros and rangers</p>
+
 <pre><code>
 astros:x:2901:beltran
 rangers:x:2902:jimenez
