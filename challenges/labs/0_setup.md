@@ -1,7 +1,7 @@
-#Cloud provider - AWS
+<p>Cloud provider - AWS</>
 
 
-#Private IPs
+<p>Private IPs</p>
 
 * ip-172-31-6-74.us-west-2.compute.internal
 * ip-172-31-3-113.us-west-2.compute.internal
@@ -10,7 +10,7 @@
 * ip-172-31-12-173.us-west-2.compute.internal
 
 
-#Public IPs
+<p>Public IPs</p>
 
 * ec2-52-89-255-147.us-west-2.compute.amazonaws.com
 * ec2-35-165-10-154.us-west-2.compute.amazonaws.com
@@ -19,7 +19,7 @@
 * ec2-34-212-65-210.us-west-2.compute.amazonaws.com
 
 
-#Linux release
+<p>Linux release</p>
 
 centos-release-7-4.1708.el7.centos.x86_64
 
@@ -40,7 +40,7 @@ tmpfs           1.5G     0  1.5G   0% /run/user/1000
 <pre><code>
 
 
-#List the command and output for yum repolist enabled
+<p>List the command and output for yum repolist enabled</p>
 
 [root@ip-172-31-6-74 centos]# yum repolist enabled
 Loaded plugins: fastestmirror
@@ -48,23 +48,23 @@ Loading mirror speeds from cached hostfile
  * base: mirrors.sonic.net
  * extras: mirror.genesisadaptive.com
  * updates: mirror.web-ster.com
-repo id                                                               repo name                                                                                           status
-base/7/x86_64                                                         CentOS-7 - Base                                                                                     9,591
-extras/7/x86_64                                                       CentOS-7 - Extras                                                                                     227
-updates/7/x86_64                                                      CentOS-7 - Updates                                                                                    740
+repo id                                               repo name                                                       status
+base/7/x86_64                                         CentOS-7 - Base                                                 9,591
+extras/7/x86_64                                       CentOS-7 - Extras                                               227
+updates/7/x86_64                                      CentOS-7 - Updates                                              740
 repolist: 10,558
 [root@ip-172-31-6-74 centos]# 
 
 
 
-#List the /etc/passwd entries for jimenez and beltran
+<p>List the /etc/passwd entries for jimenez and beltran</p>
 
 jimenez:x:2800:2800::/home/jimenez:/bin/bash
 beltran:x:2900:2900::/home/beltran:/bin/bash
 
 
 
-#List the /etc/group entries for astros and rangers
+<p>List the /etc/group entries for astros and rangers</p>
 
 astros:x:2901:beltran
 rangers:x:2902:jimenez
