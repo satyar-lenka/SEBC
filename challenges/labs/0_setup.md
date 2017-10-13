@@ -37,7 +37,7 @@ tmpfs           7.3G     0  7.3G   0% /sys/fs/cgroup
 tmpfs           1.5G     0  1.5G   0% /run/user/0
 tmpfs           1.5G     0  1.5G   0% /run/user/1000
 [root@ip-172-31-6-74 centos]
-<pre><code>
+</code></pre>
 
 
 <p>List the command and output for yum repolist enabled</p>
