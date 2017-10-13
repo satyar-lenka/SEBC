@@ -25,8 +25,8 @@ centos-release-7-4.1708.el7.centos.x86_64
 
 
 
-#List the file system capacity for the first node
-<code>
+<p>List the file system capacity for the first node</p>
+<pre><code>
 [root@ip-172-31-6-74 centos]# df -h
 Filesystem      Size  Used Avail Use% Mounted on
 /dev/xvda1       30G  822M   30G   3% /
@@ -36,8 +36,8 @@ tmpfs           7.3G   17M  7.3G   1% /run
 tmpfs           7.3G     0  7.3G   0% /sys/fs/cgroup
 tmpfs           1.5G     0  1.5G   0% /run/user/0
 tmpfs           1.5G     0  1.5G   0% /run/user/1000
-[root@ip-172-31-6-74 centos]#
-<code>
+[root@ip-172-31-6-74 centos]
+<pre><code>
 
 
 #List the command and output for yum repolist enabled
