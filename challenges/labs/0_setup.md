@@ -3,11 +3,11 @@
 
 #Private IPs
 
-ip-172-31-6-74.us-west-2.compute.internal
-ip-172-31-3-113.us-west-2.compute.internal
-ip-172-31-13-157.us-west-2.compute.internal
-ip-172-31-14-253.us-west-2.compute.internal
-ip-172-31-12-173.us-west-2.compute.internal
+* ip-172-31-6-74.us-west-2.compute.internal
+* ip-172-31-3-113.us-west-2.compute.internal
+* ip-172-31-13-157.us-west-2.compute.internal
+* ip-172-31-14-253.us-west-2.compute.internal
+* ip-172-31-12-173.us-west-2.compute.internal
 
 
 #Public IPs
